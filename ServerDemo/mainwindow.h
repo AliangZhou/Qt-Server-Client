@@ -1,4 +1,9 @@
-﻿#ifndef MAINWINDOW_H
+﻿/*********************************************************************************
+*Author:zhouFuLiang
+*Date: 2023-03-20  17:29
+*Description: this is my mainwindow.h file
+**********************************************************************************/
+#ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
 #include <QMainWindow>
